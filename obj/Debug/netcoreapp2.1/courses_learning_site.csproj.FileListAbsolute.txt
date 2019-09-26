@@ -1,0 +1,16 @@
+C:\Users\maxym\source\repos\courses_learning_site\courses_learning_site\bin\Debug\netcoreapp2.1\package.json
+C:\Users\maxym\source\repos\courses_learning_site\courses_learning_site\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\maxym\source\repos\courses_learning_site\courses_learning_site\bin\Debug\netcoreapp2.1\tsconfig.json
+C:\Users\maxym\source\repos\courses_learning_site\courses_learning_site\bin\Debug\netcoreapp2.1\courses_learning_site.deps.json
+C:\Users\maxym\source\repos\courses_learning_site\courses_learning_site\bin\Debug\netcoreapp2.1\courses_learning_site.runtimeconfig.json
+C:\Users\maxym\source\repos\courses_learning_site\courses_learning_site\bin\Debug\netcoreapp2.1\courses_learning_site.runtimeconfig.dev.json
+C:\Users\maxym\source\repos\courses_learning_site\courses_learning_site\bin\Debug\netcoreapp2.1\courses_learning_site.dll
+C:\Users\maxym\source\repos\courses_learning_site\courses_learning_site\obj\Debug\netcoreapp2.1\courses_learning_site.csprojAssemblyReference.cache
+C:\Users\maxym\source\repos\courses_learning_site\courses_learning_site\obj\Debug\netcoreapp2.1\courses_learning_site.RazorAssemblyInfo.cache
+C:\Users\maxym\source\repos\courses_learning_site\courses_learning_site\obj\Debug\netcoreapp2.1\courses_learning_site.RazorAssemblyInfo.cs
+C:\Users\maxym\source\repos\courses_learning_site\courses_learning_site\obj\Debug\netcoreapp2.1\courses_learning_site.AssemblyInfoInputs.cache
+C:\Users\maxym\source\repos\courses_learning_site\courses_learning_site\obj\Debug\netcoreapp2.1\courses_learning_site.AssemblyInfo.cs
+C:\Users\maxym\source\repos\courses_learning_site\courses_learning_site\obj\Debug\netcoreapp2.1\courses_learning_site.RazorTargetAssemblyInfo.cache
+C:\Users\maxym\source\repos\courses_learning_site\courses_learning_site\bin\Debug\netcoreapp2.1\courses_learning_site.pdb
+C:\Users\maxym\source\repos\courses_learning_site\courses_learning_site\obj\Debug\netcoreapp2.1\courses_learning_site.dll
+C:\Users\maxym\source\repos\courses_learning_site\courses_learning_site\obj\Debug\netcoreapp2.1\courses_learning_site.pdb
